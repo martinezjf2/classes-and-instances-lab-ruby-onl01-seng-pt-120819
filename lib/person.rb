@@ -2,3 +2,5 @@ class Person
   def initialize
 end
 end
+
+adele_goldberg = Person.new
